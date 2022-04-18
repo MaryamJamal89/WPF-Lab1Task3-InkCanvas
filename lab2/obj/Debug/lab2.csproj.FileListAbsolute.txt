@@ -1,0 +1,32 @@
+D:\randa\ITI\WPF\lab2\lab2\bin\Debug\lab2.exe.config
+D:\randa\ITI\WPF\lab2\lab2\bin\Debug\lab2.exe
+D:\randa\ITI\WPF\lab2\lab2\bin\Debug\lab2.pdb
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\MainWindow.g.cs
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\App.g.cs
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2_MarkupCompile.cache
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2_MarkupCompile.lref
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\MainWindow.baml
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.g.resources
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.exe
+D:\randa\ITI\WPF\lab2\lab2\obj\Debug\lab2.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\bin\Debug\lab2.exe
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\bin\Debug\lab2.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\MainWindow.g.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\App.g.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2_MarkupCompile.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2_MarkupCompile.lref
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\MainWindow.baml
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.g.resources
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.exe
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\lab2\lab2\obj\Debug\lab2.pdb

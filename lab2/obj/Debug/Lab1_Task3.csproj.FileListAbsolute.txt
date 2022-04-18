@@ -1,0 +1,16 @@
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.csproj.SuggestedBindingRedirects.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\MainWindow.g.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\App.g.cs
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3_MarkupCompile.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3_MarkupCompile.lref
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\bin\Debug\Lab1_Task3.exe.config
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\bin\Debug\Lab1_Task3.exe
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\bin\Debug\Lab1_Task3.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\MainWindow.baml
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.g.resources
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.Properties.Resources.resources
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.csproj.GenerateResource.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.csproj.CoreCompileInputs.cache
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.exe
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.pdb
+D:\Privacy collector with the utmost confidentiality\Ma Collage\ITI\9Month\28- WPF\Lab1_Task3\lab2\obj\Debug\Lab1_Task3.csproj.AssemblyReference.cache
